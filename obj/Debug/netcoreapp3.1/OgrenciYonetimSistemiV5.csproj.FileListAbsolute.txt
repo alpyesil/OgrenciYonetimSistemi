@@ -1,0 +1,77 @@
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.exe
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.deps.json
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.runtimeconfig.json
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.runtimeconfig.dev.json
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.dll
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.pdb
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.csprojAssemblyReference.cache
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.AssemblyInfoInputs.cache
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.AssemblyInfo.cs
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.csproj.CoreCompileInputs.cache
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.dll
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.pdb
+C:/Users/eminkbc/source/repos/OgrenciYonetimSistemiV5Proje/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.genruntimeconfig.cache
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.deps.json
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.runtimeconfig.json
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.runtimeconfig.dev.json
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.dll
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/bin/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.pdb
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.csprojAssemblyReference.cache
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.AssemblyInfoInputs.cache
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.AssemblyInfo.cs
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.csproj.CoreCompileInputs.cache
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.dll
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.pdb
+/Users/cicekyuzbas/Downloads/Telegram Desktop/OgrenciYonetimSistemiV5Proje-1/OgrenciYonetimSistemiV5/OgrenciYonetimSistemiV5/obj/Debug/netcoreapp3.1/OgrenciYonetimSistemiV5.genruntimeconfig.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.exe
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.deps.json
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.json
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.dev.json
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.csprojAssemblyReference.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfoInputs.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfo.cs
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.csproj.CoreCompileInputs.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5 (2)\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.genruntimeconfig.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.exe
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.deps.json
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.json
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.dev.json
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.csprojAssemblyReference.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfoInputs.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfo.cs
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.csproj.CoreCompileInputs.cache
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\eminkbc\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.genruntimeconfig.cache
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.exe
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.deps.json
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.json
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.dev.json
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.csprojAssemblyReference.cache
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfoInputs.cache
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfo.cs
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.csproj.CoreCompileInputs.cache
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\mmuha\Desktop\OgrenciYonetimSistemiV5ProjeEnSon\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.genruntimeconfig.cache
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.exe
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.deps.json
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.json
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.runtimeconfig.dev.json
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\bin\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfoInputs.cache
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.AssemblyInfo.cs
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.csproj.CoreCompileInputs.cache
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.dll
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.pdb
+C:\Users\alpys\Desktop\OgrenciYonetimSistemiV5\obj\Debug\netcoreapp3.1\OgrenciYonetimSistemiV5.genruntimeconfig.cache
